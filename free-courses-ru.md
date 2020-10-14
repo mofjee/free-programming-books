@@ -75,7 +75,7 @@ ADV - продвинутый. Тонкости.
 * [DBA2. Администрирование PostgreSQL. Расширенный курс](https://postgrespro.ru/education/courses/DBA2) (INT)
 * [DEV1. Разработка серверной части приложений PostgreSQL](https://postgrespro.ru/education/courses/DEV1) (ADV)
 * [Hacking PostgreSQL](https://postgrespro.ru/education/courses/hacking) (INT)
-* [Свободное погружение в СУБД(PostgreSQL)](https://stepik.org/course/70710) - Stepik (BEG)
+* [Свободное погружение в СУБД(PostgreSQL)](https://stepik.org/course/70710) - Stepik (INT)
 
 
 ### Python
